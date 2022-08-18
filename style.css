@@ -52,6 +52,18 @@ body{
     box-shadow: -4px 4px 5px 0 #000;
 }
 
+.posterr{
+    width: 10%;
+    margin-top: 15px;
+    box-shadow:  -4px 4px 5px 0 #000;
+    cursor: pointer;
+    transition: 1s;
+}
+.posterr:hover{
+    transform: translateY(-12px);
+}
+
+
 .series img{
     width: 90%;
     margin-top: 15px;
